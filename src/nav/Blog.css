@@ -1,0 +1,12 @@
+.body{
+    background-color: white;
+}
+
+
+.organizationBlog{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin: 100px;
+}

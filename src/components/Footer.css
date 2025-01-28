@@ -1,0 +1,46 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: #EFEEEE;
+    padding-left: 55px;
+}
+
+
+.titleFooter{
+    margin-top: 10px;
+    font-family: 'fontTitle', sans-serif;
+    font-size: 40px;
+    
+    
+}
+
+.navFooter{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.linkFooter{
+    text-decoration: none;
+    color: #4F4F4F;
+    border-bottom: 1px solid #4F4F4F;
+}
+
+.navExternalFooter{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    
+}
+
+.IconsFooter{
+    font-size: 30px;
+    color: rgb(55, 54, 54);
+}

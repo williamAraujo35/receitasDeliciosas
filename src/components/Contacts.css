@@ -1,0 +1,32 @@
+.contacts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../imgs/Designer.png');
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.call{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'fontTitle', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.wayContact{
+    font-family: 'fontText', sans-serif;
+    font-size: 11px;
+    text-align: center;
+    font-weight: 500;
+    width: 20%;
+}
+
+.iconWhatsaap{
+    width: 70px;
+}

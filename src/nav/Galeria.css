@@ -1,0 +1,8 @@
+.galeria{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+   /*cima, direita, baixo, esquerda*/ 
+   margin: 100px 10px 100px 10px;
+}

@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'fontTitle';
+  src: url('./fonts/AmaticSC-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'fontText';
+  src: url('./fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+
+.App {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'fontText', sans-serif;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 10vh 1fr;
+  grid-template-areas:
+  "header"
+  "body" ;
+}
+
+.header.header{
+  grid-area: header;
+}
+
+.main.body{
+  grid-area: body;
+}
+
+
+
+

@@ -1,0 +1,49 @@
+.body{
+    background-color: white;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.titleAbout{
+    margin-top: 10px;
+    font-family: 'fontTitle', sans-serif;
+    font-size: 70px;
+    width: 50%;
+    margin-top: 50px;
+    font-weight: 500;
+}
+
+.textAbout{
+    font-family: 'fontText', sans-serif;
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 500;
+    width: 80%;
+    margin-top: 50px;
+}
+
+.containe{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.imgAbout{
+    width: 100%;
+    margin-bottom: 100px;
+    margin-top: 80px;
+}
+
+.alignImgPizza{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
