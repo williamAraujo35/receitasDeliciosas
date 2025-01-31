@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/receitasDeliciosas/static/css/main.be31b4c9.css",
+    "main.js": "/receitasDeliciosas/static/js/main.22be4159.js",
+    "static/media/Designer.png": "/receitasDeliciosas/static/media/Designer.93f488d3a3dabc01e6b1.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/receitasDeliciosas/static/media/Montserrat-VariableFont_wght.4df14eb5e72bf55c4497.ttf",
+    "static/media/vacaAtolada.jpg": "/receitasDeliciosas/static/media/vacaAtolada.884f780f080497cfe0a6.jpg",
+    "static/media/pizzaAbout.jpeg": "/receitasDeliciosas/static/media/pizzaAbout.20bce73605d90371ac19.jpeg",
+    "static/media/AmaticSC-Regular.ttf": "/receitasDeliciosas/static/media/AmaticSC-Regular.fd9971162ff94dc53856.ttf",
+    "static/media/arrozAgrega.jpg": "/receitasDeliciosas/static/media/arrozAgrega.db3dd4f7da4e60d01336.jpg",
+    "static/media/panquecaCarne.jpg": "/receitasDeliciosas/static/media/panquecaCarne.616c2a3cf3694a208860.jpg",
+    "static/media/mapeamentoProcessos.png": "/receitasDeliciosas/static/media/mapeamentoProcessos.8d43f832e2cf7a0d6bd4.png",
+    "static/media/boboDeCamarao.jpg": "/receitasDeliciosas/static/media/boboDeCamarao.f4ac5e9abe38551369ac.jpg",
+    "static/media/moqueca.jpg": "/receitasDeliciosas/static/media/moqueca.87cca77a48aeec00efdd.jpg",
+    "static/media/coxinha.jpg": "/receitasDeliciosas/static/media/coxinha.e0c8a33def81278a37b8.jpg",
+    "static/media/lazanha.jpg": "/receitasDeliciosas/static/media/lazanha.a56d152a5fdc196062c6.jpg",
+    "static/media/feijoada.jpg": "/receitasDeliciosas/static/media/feijoada.23f63f3c7baaa0505739.jpg",
+    "static/media/camarao.jpg": "/receitasDeliciosas/static/media/camarao.9d70d1b0b25f2f025d94.jpg",
+    "static/media/whatsapp.png": "/receitasDeliciosas/static/media/whatsapp.965d92ce0d9f486938b6.png",
+    "static/media/pizzaCalabresa.jpg": "/receitasDeliciosas/static/media/pizzaCalabresa.55addf3e50e9d47a7cb4.jpg",
+    "static/media/tortaDeFrango.jpg": "/receitasDeliciosas/static/media/tortaDeFrango.1bf9ef173cc84c7f2f37.jpg",
+    "static/media/strogonoffFrango.jpg": "/receitasDeliciosas/static/media/strogonoffFrango.aec18f2139344f414795.jpg",
+    "index.html": "/receitasDeliciosas/index.html",
+    "main.be31b4c9.css.map": "/receitasDeliciosas/static/css/main.be31b4c9.css.map",
+    "main.22be4159.js.map": "/receitasDeliciosas/static/js/main.22be4159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be31b4c9.css",
+    "static/js/main.22be4159.js"
+  ]
+}
