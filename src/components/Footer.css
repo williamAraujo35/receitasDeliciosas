@@ -44,3 +44,44 @@
     font-size: 30px;
     color: rgb(55, 54, 54);
 }
+
+
+/* Responsividade para dispositivos menores */
+@media (max-width: 768px) {
+    .footer {
+        padding-left: 20px; /* Reduzindo o padding em telas menores */
+        padding-right: 20px; /* Adicionando padding à direita para balancear */
+    }
+
+    .titleFooter {
+        font-size: 30px; /* Reduzindo o tamanho da fonte em telas menores */
+    }
+
+    .navFooter {
+        gap: 15px; /* Diminuindo o espaço entre os links */
+    }
+
+    .IconsFooter {
+        font-size: 25px; /* Diminuindo o tamanho dos ícones */
+    }
+}
+
+@media (max-width: 480px) {
+    .footer {
+        padding-left: 10px; /* Ajustando para telas muito pequenas */
+        padding-right: 10px;
+    }
+
+    .titleFooter {
+        font-size: 25px; /* Reduzindo ainda mais o tamanho da fonte */
+    }
+
+    .navFooter, .navExternalFooter {
+        flex-direction: column; /* Mudando os links para coluna em telas muito pequenas */
+        gap: 10px;
+    }
+
+    .IconsFooter {
+        font-size: 20px; /* Ajustando os ícones para tamanhos menores */
+    }
+}
