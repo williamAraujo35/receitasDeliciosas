@@ -53,7 +53,7 @@
     font-weight: 600;
 }
 
-* Responsividade para o título do card */
+/* Responsividade para o título do card */
 @media (max-width: 768px) {
     .titleCard {
         font-size: 24px; /* Reduzindo o tamanho da fonte para telas menores */
